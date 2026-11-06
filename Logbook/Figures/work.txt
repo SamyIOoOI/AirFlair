@@ -1,0 +1,4 @@
+conclusion
+abstract
+research: recitifier diode, recitifier bridge, resistors, electric circuits
+construction: electric circuit
